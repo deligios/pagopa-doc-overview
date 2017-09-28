@@ -37,9 +37,9 @@ Creditori e i prestatori di servizi di pagamento; nella terza sono esplicitati g
 Premessa alla Versione 2.0
 --------------------------------
 
-La presente versione delle rappresenta il frutto di recenti scelte strategiche per dare un crescente impulso alla diffusione del sistema pagoPA.
+Questa versione delle Specifiche Attuative del Nodo dei Pagamenti-SPC è il frutto di recenti scelte strategiche per dare un crescente impulso alla diffusione del sistema pagoPA.
 
-In particolare, ci si riferisce ai numerosi correttivi apportati alle funzionalità del Nodo dei Pagamenti-SPC finalizzati a migliorare l’esperienza d’uso per l’utente, nonché a rendere il sistema maggiormente usabile per i dispositivi mobili. Le modifiche apportate al presente documento riguardano, oltre alle novità funzionali introdotte, una riorganizzazione del testo, al fine di migliorarne la leggibilità e l’utilizzo come documento tecnico per i relativi progetti di sviluppo.
+In particolare, le funzionalità del Nodo dei Pagamenti-SPC sono state modificate per migliorare l’esperienza d’uso per l’utente, e per rendere il sistema maggiormente usabile da dispositivi mobili. Le modifiche al documento riguardano il recepimento delle novità funzionali introdotte e una riorganizzazione del testo, volta a migliorare la leggibilità e l’utilizzo come documento tecnico per i relativi progetti di sviluppo.
 
 Lo scopo del documento è quello di fornire ai soggetti aderenti all’iniziativa tutte le indicazioni utili e le regole da attuare per implementare i pagamenti elettronici verso la PA. Le SANP sono corredate da ulteriori documenti collegati:
 
