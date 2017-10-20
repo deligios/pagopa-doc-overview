@@ -6,7 +6,7 @@ Modello di funzionamento
 
 \ **Figura 1 – EPC *Four Corners model***
 
-Il modello di funzionamento del Sistema fa riferimento ai principi del *Four Corners* *model* definito dall’European Payment Council ed è riportato nel diagramma di Figura 1, nel quale l’infrastruttura costituita dal Nodo dei Pagamenti-SPC si pone quale facilitatore del colloquio con i prestatori di sevizi di pagamento.
+Il modello di funzionamento del Sistema fa riferimento ai principi del *Four Corners* *model* definito dall’European Payment Council ed è riportato nel diagramma di Figura 1, nel quale l’infrastruttura costituita dal Nodo dei Pagamenti-SPC si pone quale facilitatore del colloquio con i prestatori di servizi di pagamento.
 
 Il perfezionamento delle operazioni tra banche, evidenziato in arancio nel diagramma, avviene attraverso il sistema di regolamento e compensazione (CSM) utilizzando le regole SEPA.
 
